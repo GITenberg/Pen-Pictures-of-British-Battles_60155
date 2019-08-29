@@ -1,0 +1,31 @@
+_repo: Pen-Pictures-of-British-Battles_60155
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2019-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60155'
+  lccn: '17028510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns'
+- GITenberg
+tableOfContents: The victory of the Falkland islands, by R. Wilson -- The battle of
+  the Marne, by Sir A.C. Doyle -- A glimpse of Canada in Flanders, by Lord Beaverbrook
+  -- The second battle of Ypres, by J. Buchan -- The battle of Jutland Bank, by H.W.
+  Wilson -- The charge at Loos of the London Irish -- The landing at V beach, near
+  Sedd-el-Bahr, by J. Masefield -- The Coldstream Guards at the battle of the Somme,
+  by P. Gibbs -- The moonlight battle for Baghdad, by E. Candler -- The battle of
+  Arras, by P. Gibbs -- Warfare under water, by R. Kipling.
+title: Pen Pictures of British Battles
+url: http://www.gutenberg.org/ebooks/60155
